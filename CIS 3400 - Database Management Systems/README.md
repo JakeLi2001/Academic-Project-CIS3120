@@ -24,7 +24,7 @@ Each invoice has 17 attributes. The information on the 17 attributes is shown be
 16. Gross income: Gross income
 17. Rating: Customer stratification rating on their overall shopping experience (On a scale of 1 to 10)
 
-This is a relational database project using Microsoft Access, and it consists of 5 steps.
+### This is a relational database project using Microsoft Access, and it consists of 5 steps.
 1. Create Entity Relationship diagram
 2. Convert ER diagram to Relational Model
 3. Normalize the Relations
