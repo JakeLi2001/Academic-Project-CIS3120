@@ -6,6 +6,6 @@ This is a Python project and it consists of 4 parts:
 2. pandas
     - Use pandas to create a dataframe and clean it.
 3. Data Combine, Merge, Load
-    - Identify keyword/skill inconsistency and use functions to fix it.
+    - Identify keyword/skill inconsistency and use pandas and numpy to fix it.
 4. Data Visualization
     - Make a horizontal bar graph and pie chart to compare the keywords/skills.
