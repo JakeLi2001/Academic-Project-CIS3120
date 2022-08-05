@@ -1,6 +1,6 @@
 # Keywords/Skills for Data Analyst
 
-This is a Python project and it consists of 4 parts:
+This is a Python project consisted of 4 parts:
 1. Web Scraping
     - Use BeautifulSoup and requests to scrape from 11 different websites using a loop.
 2. pandas
