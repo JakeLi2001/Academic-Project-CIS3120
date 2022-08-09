@@ -1,5 +1,6 @@
 
-# CIS 3120 - Programming for Analytics: This course introduces the aspects of programming that can support business analytics. The course covers hands-on issues in programming for analytics which include accessing data, creating informative data graphics, writing functions, debugging, and organizing and commenting code 
+# CIS 3120 - Programming for Analytics: 
+This course introduces the aspects of programming that can support business analytics. The course covers hands-on issues in programming for analytics which include accessing data, creating informative data graphics, writing functions, debugging, and organizing and commenting code 
 
 ## Keywords/Skills for Data Analyst:
 
