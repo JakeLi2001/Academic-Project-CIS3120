@@ -1,6 +1,8 @@
-# Keywords/Skills for Data Analyst
 
-This is a Python project consisted of 4 parts:
+# CIS 3120 - Programming for Analytics: This course introduces the aspects of programming that can support business analytics. The course covers hands-on issues in programming for analytics which include accessing data, creating informative data graphics, writing functions, debugging, and organizing and commenting code 
+
+## Keywords/Skills for Data Analyst:
+
 1. Web Scraping
     - Use BeautifulSoup and requests to scrape from 11 different websites using a loop.
 2. pandas
