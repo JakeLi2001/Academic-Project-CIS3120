@@ -1,4 +1,4 @@
-# Data Analyst Keywords Analysis:
+# Data Analyst Keywords Analysis
 
 Goal: Analyze data analyst keywords from various websites.
 
