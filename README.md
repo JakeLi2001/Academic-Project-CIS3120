@@ -1,8 +1,8 @@
 # Data Analyst Keywords Analysis
 
-Goal: Analyze data analyst keywords from various websites.
+**Goal**: Analyze data analyst keywords from various websites.
 
-Motivation: I wanted to figure out what keywords/skills are important or most frequently mentioned for data analyst.
+**Motivation**: I wanted to figure out what keywords/skills are important or most frequently mentioned for data analyst.
 
 ##  Data Source
 
