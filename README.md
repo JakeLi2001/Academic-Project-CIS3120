@@ -4,7 +4,7 @@
 
 **Motivation**: I wanted to figure out what keywords/skills are important or most frequently mentioned for data analyst.
 
-##  Data Source
+## :mag_right: Data Source
 
 1. https://www.northeastern.edu/graduate/blog/data-analyst-skills/
 2. https://www.indeed.com/career-advice/resumes-cover-letters/skills-for-data-analyst
@@ -18,14 +18,14 @@
 10. https://resumeworded.com/skills-and-keywords/data-analyst-skills
 11. https://www.indeed.com/career-advice/resumes-cover-letters/skills-for-data-analys
 
-##  Summary
+## :open_book: Summary
 
 1. Web Scraping: Used BeautifulSoup and requests to scrape keywords from 11 websites using a loop.
 2. Data Cleaning: Used pandas to create a dataframe and perform data cleaning such as removing numbers and irrelevant information.
 3. Data Aggregation: Used the value_counts function to get freqencies and identified keyword inconsistency.
 4. Data Visualization: Made a horizontal bar graph and pie chart to compare the keywords/skills.
 
-##  Results
+## :dart: Results
 
 The top 10 most frequent keywords/skills in descending order are:
 1. SQL
@@ -41,7 +41,7 @@ The top 10 most frequent keywords/skills in descending order are:
 
 The frequency for Python and R are the same.
 
-## Tech Stack
+## :hammer_and_wrench: Tech Stack
 
 **Language:** Python
 
